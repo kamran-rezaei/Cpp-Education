@@ -12,7 +12,7 @@ int main() {
     // Prompt the user to enter the second number
     cout << "Enter the second number: ";
     cin >> num2;
-    cout<<"hellllllo";
+
     // Calculate the average
     average = (num1 + num2) / 2;
 
