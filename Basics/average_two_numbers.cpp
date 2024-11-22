@@ -16,6 +16,8 @@ int main() {
     // Calculate the average
     average = (num1 + num2) / 2;
 
+    cout<<"Hellllllo";
+
     // Display the result
     cout << "The average of " << num1 << " and " << num2 << " is: " << average << endl;
 
