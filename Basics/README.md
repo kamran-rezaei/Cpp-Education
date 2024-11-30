@@ -36,4 +36,3 @@ This program converts temperatures between Celsius and Fahrenheit.
   - Fahrenheit to Celsius: `C = (F - 32) * 5/9`.  
 - The result is displayed to the user.  
 
-**Usage Example:**  
