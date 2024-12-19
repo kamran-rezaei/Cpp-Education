@@ -34,5 +34,18 @@ This program converts temperatures between Celsius and Fahrenheit.
 - Depending on the choice, it performs the corresponding conversion using these formulas:  
   - Celsius to Fahrenheit: `F = (C * 9/5) + 32`  
   - Fahrenheit to Celsius: `C = (F - 32) * 5/9`.  
-- The result is displayed to the user.  
+- The result is displayed to the user. 
+
+---
+
+### **calculator.cpp**  
+This program performs basic arithmetic operations (addition, subtraction, multiplication, and division).  
+
+**Features:**  
+- Supports four basic operations: `+`, `-`, `*`, `/`.  
+- Handles division by zero gracefully.  
+
+**How It Works:**  
+- The program prompts the user to enter two numbers and an operator.  
+- Based on the operator, it performs the corresponding operation and displays the result.  
 
