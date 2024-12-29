@@ -49,3 +49,12 @@ This program performs basic arithmetic operations (addition, subtraction, multip
 - The program prompts the user to enter two numbers and an operator.  
 - Based on the operator, it performs the corresponding operation and displays the result.  
 
+---
+
+### **odd_or_even.cpp**  
+This program checks whether a given number is **odd** or **even**.  
+
+**How It Works:**  
+- The program prompts the user to enter an integer.  
+- It calculates the remainder of the number when divided by 2 (`%`).  
+- Based on the remainder, it determines whether the number is **even** or **odd**.  
